@@ -1,0 +1,16 @@
+.\image\os_cfg_app.o: ..\UCOS\uCOS-III\Source\os_cfg_app.c
+.\image\os_cfg_app.o: ..\BSP\os_cfg_app.h
+.\image\os_cfg_app.o: ..\UCOS\uCOS-III\Source\os.h
+.\image\os_cfg_app.o: ..\BSP\os_cfg.h
+.\image\os_cfg_app.o: ..\UCOS\uC-CPU\cpu_core.h
+.\image\os_cfg_app.o: ..\UCOS\uC-CPU\cpu.h
+.\image\os_cfg_app.o: ..\UCOS\uC-CPU\cpu_def.h
+.\image\os_cfg_app.o: ..\BSP\cpu_cfg.h
+.\image\os_cfg_app.o: ..\UCOS\uC-LIB\lib_def.h
+.\image\os_cfg_app.o: ..\UCOS\uC-LIB\lib_mem.h
+.\image\os_cfg_app.o: ..\UCOS\uC-CPU\cpu_core.h
+.\image\os_cfg_app.o: ..\BSP\lib_cfg.h
+.\image\os_cfg_app.o: ..\UCOS\uC-LIB\lib_str.h
+.\image\os_cfg_app.o: ..\UCOS\uC-LIB\lib_ascii.h
+.\image\os_cfg_app.o: ..\UCOS\uCOS-III\Source\os_type.h
+.\image\os_cfg_app.o: ..\UCOS\uCOS-III\Ports\os_cpu.h

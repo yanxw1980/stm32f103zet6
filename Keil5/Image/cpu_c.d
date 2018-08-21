@@ -1,0 +1,11 @@
+.\image\cpu_c.o: ..\UCOS\uC-CPU\cpu_c.c
+.\image\cpu_c.o: ..\UCOS\uC-CPU\cpu.h
+.\image\cpu_c.o: ..\UCOS\uC-CPU\cpu_def.h
+.\image\cpu_c.o: ..\BSP\cpu_cfg.h
+.\image\cpu_c.o: ..\UCOS\uC-CPU\cpu_core.h
+.\image\cpu_c.o: ..\UCOS\uC-LIB\lib_def.h
+.\image\cpu_c.o: ..\UCOS\uC-LIB\lib_mem.h
+.\image\cpu_c.o: ..\UCOS\uC-CPU\cpu_core.h
+.\image\cpu_c.o: ..\BSP\lib_cfg.h
+.\image\cpu_c.o: ..\UCOS\uC-LIB\lib_str.h
+.\image\cpu_c.o: ..\UCOS\uC-LIB\lib_ascii.h
