@@ -439,11 +439,11 @@ ARM Macro Assembler    Page 7
   276 000000D4                 END
               E000ED04 
 Command Line: --debug --xref --diag_suppress=9931 --cpu=Cortex-M3 --apcs=interw
-ork --depend=.\image\os_cpu_a.d -o.\image\os_cpu_a.o -IF:\WorkFiles\AutoLoader\
-Program\LoaderProj_ucos_V1.0211\Keil5\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_
-DFP\2.2.0\Device\Include -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_
-VERSION SETA 515" --predefine="STM32F10X_HD SETA 1" --list=.\listings\os_cpu_a.
-lst ..\UCOS\uCOS-III\Ports\os_cpu_a.asm
+ork --depend=.\image\os_cpu_a.d -o.\image\os_cpu_a.o -IF:\github\stm32f103zet6\
+stm32f103zet6\Keil5\RTE -IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\I
+nclude -IC:\Keil_v5\ARM\CMSIS\Include --predefine="__UVISION_VERSION SETA 515" 
+--predefine="STM32F10X_HD SETA 1" --list=.\listings\os_cpu_a.lst ..\UCOS\uCOS-I
+II\Ports\os_cpu_a.asm
 
 
 

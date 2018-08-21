@@ -4761,55 +4761,55 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   Object Name
 
-       352         32          0          8         80       3303   adc7689.o
-       916         36          0          0         15      10567   boardiodef.o
-       536         46          0          4          0      32952   bsp.o
-       650         16          0          0        240      30892   bsp_int.o
-       226         10          0          0          0       3052   bsp_os.o
-       256         48          0          0          0        527   bsp_periph.o
-      1506        154        212         64       1008       9277   bsp_ser.o
-        52          0          0          0          0        296   cpu_a.o
-       752         44          0          0          0       1447   cpu_c.o
-       540         98          0         28         16       8560   cpu_core.o
-      5590        516       1380          1          0      21313   hexprotocol.o
-      5648       1828          0          0      32112      20341   main.o
-       112         12          0          0          0     261372   misc.o
-      1122        132          8          0          0      10089   motorbsp.o
-      3036        188          0          1       1664      13614   motordrv.o
-         2          0        148          0       4992      20639   os_cfg_app.o
-      3034        404          0          0          0      19838   os_core.o
-       216          6          0          0          0        344   os_cpu_a.o
-       644         66          0          4          0       6987   os_cpu_c.o
-       428        280        364          0          0       4709   os_dbg.o
-       760         28          0          0          0       2973   os_flag.o
-      1172        202          0          0          0       3334   os_int.o
-        24         10          0          0          0        841   os_mem.o
-       570         32          0          0          0       3954   os_msg.o
-      1792         76          0          0          0       7055   os_mutex.o
-       136         16          0          4          0       2738   os_prio.o
-      1464         70          0          0          0       5471   os_q.o
-      1536         74          0          0          0       6250   os_sem.o
-      1768        212          0          0          0       3943   os_stat.o
-      5812        278          0          0          0      14320   os_task.o
-      1596        110          0          0          0       6218   os_tick.o
-       948         42          0          0          0       2985   os_time.o
-       570        142          0          0          0       3791   os_tmr.o
-         0          0          0        232       1464      19348   os_var.o
-       232         24          0          4          0       4791   rotvalvedef.o
-      1196        124          0         16        610       3966   spidrv.o
-       178         10          0          0          0       2086   spiflash.o
-        56         22        304          0       1536        796   startup_stm32f10x_hd.o
-        52         12          0          0          0       1141   stm32f10x_flash.o
-       294          0          0          0          0       3706   stm32f10x_gpio.o
-        22          0          0          0          0       2955   stm32f10x_it.o
-       708         98          0         20          0      11419   stm32f10x_rcc.o
-       144          0          0          0          0       4709   stm32f10x_spi.o
-       448         52          0          0          0       5646   stm32f10x_tim.o
-       440          6          0          0          0       7439   stm32f10x_usart.o
-       914         34          0          4          0       7186   xlp6000.o
+       352         32          0          8         80       3179   adc7689.o
+       916         36          0          0         15      10411   boardiodef.o
+       536         46          0          4          0      32728   bsp.o
+       650         16          0          0        240      29936   bsp_int.o
+       226         10          0          0          0       2944   bsp_os.o
+       256         48          0          0          0        511   bsp_periph.o
+      1506        154        212         64       1008       9009   bsp_ser.o
+        52          0          0          0          0        276   cpu_a.o
+       752         44          0          0          0       1407   cpu_c.o
+       540         98          0         28         16       8284   cpu_core.o
+      5590        516       1380          1          0      21001   hexprotocol.o
+      5648       1828          0          0      32112      19945   main.o
+       112         12          0          0          0     261236   misc.o
+      1122        132          8          0          0       9817   motorbsp.o
+      3036        188          0          1       1664      13290   motordrv.o
+         2          0        148          0       4992      20567   os_cfg_app.o
+      3034        404          0          0          0      19262   os_core.o
+       216          6          0          0          0        328   os_cpu_a.o
+       644         66          0          4          0       6735   os_cpu_c.o
+       428        280        364          0          0       4653   os_dbg.o
+       760         28          0          0          0       2909   os_flag.o
+      1172        202          0          0          0       3246   os_int.o
+        24         10          0          0          0        801   os_mem.o
+       570         32          0          0          0       3850   os_msg.o
+      1792         76          0          0          0       6867   os_mutex.o
+       136         16          0          4          0       2626   os_prio.o
+      1464         70          0          0          0       5339   os_q.o
+      1536         74          0          0          0       6102   os_sem.o
+      1768        212          0          0          0       3851   os_stat.o
+      5812        278          0          0          0      14020   os_task.o
+      1596        110          0          0          0       6054   os_tick.o
+       948         42          0          0          0       2913   os_time.o
+       570        142          0          0          0       3667   os_tmr.o
+         0          0          0        232       1464      19312   os_var.o
+       232         24          0          4          0       4603   rotvalvedef.o
+      1196        124          0         16        610       3858   spidrv.o
+       178         10          0          0          0       2014   spiflash.o
+        56         22        304          0       1536        780   startup_stm32f10x_hd.o
+        52         12          0          0          0       1105   stm32f10x_flash.o
+       294          0          0          0          0       3614   stm32f10x_gpio.o
+        22          0          0          0          0       2831   stm32f10x_it.o
+       708         98          0         20          0      11131   stm32f10x_rcc.o
+       144          0          0          0          0       4581   stm32f10x_spi.o
+       448         52          0          0          0       5478   stm32f10x_tim.o
+       440          6          0          0          0       7259   stm32f10x_usart.o
+       914         34          0          4          0       6970   xlp6000.o
 
     ----------------------------------------------------------------------
-     48514       5590       2448        392      43740     619180   Object Totals
+     48514       5590       2448        392      43740     611300   Object Totals
          0          0         32          0          0          0   (incl. Generated)
         64          0          0          2          3          0   (incl. Padding)
 
@@ -4922,8 +4922,8 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-     55036       5852       2964        392      43840     602876   Grand Totals
-     55036       5852       2964         48      43840     602876   ELF Image Totals (compressed)
+     55036       5852       2964        392      43840     594996   Grand Totals
+     55036       5852       2964         48      43840     594996   ELF Image Totals (compressed)
      55036       5852       2964         48          0          0   ROM Totals
 
 ==============================================================================
